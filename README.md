@@ -20,6 +20,7 @@ The annotated data and sample external features file are located in the ./data f
 - Download the English-only ConceptNet word embeddings from [https://github.com/commonsense/conceptnet-numberbatch] and place the file in the ./data folder.
 - Modify the parameters in the models to your liking.
 - Ensure the file paths for each of the 3 data files are correct. (External_Features.csv, english_conceptnet.txt, 500_Reddit_users_posts_labels.csv)
+- Change directory by running the command ```cd models```.
 - Run each of the models with ```python 5-label.py```, ```python 4-label.py```, etc.
 
 ## Citation
