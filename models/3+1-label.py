@@ -23,10 +23,10 @@ nltk.download('punkt')
 
 punctuations = list(string.punctuation)
 
-ip_txt_file = 'drive/MyDrive/CS 598 DLH/500_Reddit_users_posts_labels.csv'  # CSV file: "User", "Post", "Label"
-ip_feat_file = 'drive/MyDrive/CS 598 DLH/External_Features.csv'             # CSV file: "User", "Features"
+ip_txt_file = '../data/500_Reddit_users_posts_labels.csv'  # CSV file: "User", "Post", "Label"
+ip_feat_file = '../data/External_Features.csv'             # CSV file: "User", "Features"
 
-w2v_file = {'file': 'drive/MyDrive/CS 598 DLH/english_conceptnet.txt', 'is_binary': False}
+w2v_file = {'file': '../data/english_conceptnet.txt', 'is_binary': False}
 
 op_file = 'Result_3+1-Label_Classification.tsv'
 
