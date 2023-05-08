@@ -1,5 +1,6 @@
 # Verification and Extension of Suicide Risk Severity Assessment
-Nick Chun and Steven Injety \\
+Nick Chun and Steven Injety \
+\
 CS 598 Deep Learning for Healthcare \
 Spring 2023
 
