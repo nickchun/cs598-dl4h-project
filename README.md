@@ -1,6 +1,6 @@
 # Verification and Extension of Suicide Risk Severity Assessment
-Nick Chun and Steven Injety
-CS 598 Deep Learning for Healthcare
+Nick Chun and Steven Injety \\
+CS 598 Deep Learning for Healthcare \
 Spring 2023
 
 ## Data
@@ -23,8 +23,8 @@ The annotated data and sample external features file are located in the ./data f
 
 ## Citation
 Manas Gaur, Amanuel Alambo, Joy Prakash Sain, Ugur Kursuncu, Krishnaprasad Thirunarayan, Ramakanth
-Kavuluru, Amit Sheth, Randy Welton, and Jyotishman Pathak. 2019. Knowledge-aware assessment
-of severity of suicide risk for early intervention. In The World Wide Web Conference, WWW ’19, page
+Kavuluru, Amit Sheth, Randy Welton, and Jyotishman Pathak. 2019. [Knowledge-aware assessment
+of severity of suicide risk for early intervention](https://doi.org/10.1145/3308558.3313698). In The World Wide Web Conference, WWW ’19, page
 514–525, New York, NY, USA. Association for Computing Machinery.
 
 Link to original paper's repository: [https://github.com/jpsain/Suicide-Severity]
